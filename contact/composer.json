@@ -1,0 +1,19 @@
+{
+    "name": "mustafa/first-package",
+    "description": "simple json response that confirmes that package has been used",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mstfakdgn",
+            "email": "mustafa/akiler@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Mustafa\\FirstPackage\\": "src/"
+        }
+    }
+}
