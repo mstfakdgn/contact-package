@@ -19,7 +19,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Mustafa\\FirstPackage\\ContactServiceProvider"
+                "Mustafa\\FirstPackage\\FirstPackageServiceprovider"
             ]
         }
     }
